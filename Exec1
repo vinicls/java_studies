@@ -1,0 +1,32 @@
+
+public class Exec1 {
+	// EXERCÍCIO DE SOMA SIMPLES
+
+	public static void main(String[] args) {
+
+		
+		System.out.println("EXERCÍCIO 1");
+		
+		int x = 10;
+		int y = 30;				
+		System.out.println("Soma: " + (x + y));
+		System.out.println();
+		
+		int a = -30;
+		int b = 10;
+		System.out.println("Soma: " + (a + b));
+		System.out.println();
+		
+		int c = 0;
+		int d = 0;
+		System.out.println("Soma: " + (c + d));
+		System.out.println();
+		System.out.println("______________________________________");
+		System.out.println();
+
+		
+		
+		
+	}
+
+}
